@@ -1,8 +1,11 @@
 # OpenSource Assignment 3
-Sejong University 17011620 Jeong Jaewoo
+Sejong University 17011620 Jeong Jaewoo.
+
 I edited [this](https://github.com/llSourcell/antivirus_demo) source code to work it in my local environment.
+
 When training malware data set, I used [this](https://github.com/thebound7/maldetect/blob/master/data.csv) file.
-When testing malware or not, I used [CVE-2018-4878 exploit PE Malware](https://github.com/InQuest/malware-samples/blob/master/CVE-2018-4878-Adobe-Flash-DRM-UAF-0day/pe-e1546323dc746ed2f7a5c973dcecc79b014b68bdd8a6230239283b4f775f4bbd) and calc.exe
+
+When testing malware or not, I used [CVE-2018-4878 exploit PE Malware](https://github.com/InQuest/malware-samples/blob/master/CVE-2018-4878-Adobe-Flash-DRM-UAF-0day/pe-e1546323dc746ed2f7a5c973dcecc79b014b68bdd8a6230239283b4f775f4bbd) and calc.exe.
 
 ## Train
 ```
